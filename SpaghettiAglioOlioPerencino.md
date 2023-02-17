@@ -7,3 +7,4 @@ Uno dei miei piatti preferiti, lo mangerei anche a colazione!
 * aglio
 * olio
 * peperoncino
+* prezzemolo
