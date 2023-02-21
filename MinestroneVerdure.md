@@ -7,3 +7,6 @@ Un ottimo piatto invernale
 * cipolla
 * patate
 * carote
+* zucchine
+* peperoni
+* fagioli
