@@ -8,3 +8,4 @@ Questo archivio contiene tutte le ricette preferite da Francesco!
 * Risotto ai funghi
 * Pennette alla carbonara
 * Minestrone di verdure
+* Salmone al cartoccio
